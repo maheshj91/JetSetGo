@@ -1,0 +1,4 @@
+com.jetsetgo.test.app-androidTest-0 /Users/maheshwarsingh/React_Native_Projects/Assignment/JetSetGo/android/app/build/generated/res/resValues/androidTest/debug
+com.jetsetgo.test.app-mergeDebugAndroidTestResources-1 /Users/maheshwarsingh/React_Native_Projects/Assignment/JetSetGo/android/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.jetsetgo.test.app-mergeDebugAndroidTestResources-2 /Users/maheshwarsingh/React_Native_Projects/Assignment/JetSetGo/android/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.jetsetgo.test.app-merged_res-3 /Users/maheshwarsingh/React_Native_Projects/Assignment/JetSetGo/android/app/build/intermediates/merged_res/debugAndroidTest

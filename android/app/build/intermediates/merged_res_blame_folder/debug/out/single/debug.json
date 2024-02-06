@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/drawable-mdpi_assets_checked.png.flat",
+        "source": "com.jetsetgo.app-main-38:/drawable-mdpi/assets_checked.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.jetsetgo.app-main-38:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.jetsetgo.app-main-38:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.jetsetgo.app-main-38:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.jetsetgo.app-main-38:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.jetsetgo.app-main-38:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.jetsetgo.app-main-38:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.jetsetgo.app-main-38:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.jetsetgo.app-main-38:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/drawable-mdpi_assets_rightarrow.png.flat",
+        "source": "com.jetsetgo.app-main-38:/drawable-mdpi/assets_rightarrow.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.jetsetgo.app-main-38:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/drawable-mdpi_assets_search.png.flat",
+        "source": "com.jetsetgo.app-main-38:/drawable-mdpi/assets_search.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/drawable-mdpi_assets_time.png.flat",
+        "source": "com.jetsetgo.app-main-38:/drawable-mdpi/assets_time.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.jetsetgo.app-main-38:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.jetsetgo.app-main-38:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/drawable-mdpi_node_modules_reactnative_libraries_newappscreen_components_logo.png.flat",
+        "source": "com.jetsetgo.app-main-38:/drawable-mdpi/node_modules_reactnative_libraries_newappscreen_components_logo.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.jetsetgo.app-main-38:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.jetsetgo.app-main-38:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.jetsetgo.app-main-38:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.jetsetgo.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.jetsetgo.app-main-38:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.jetsetgo.app-merged_res-36:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.jetsetgo.app-main-38:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    }
+]

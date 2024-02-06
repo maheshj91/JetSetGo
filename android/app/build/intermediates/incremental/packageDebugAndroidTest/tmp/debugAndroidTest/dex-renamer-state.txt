@@ -1,0 +1,7 @@
+#Tue Feb 06 18:16:56 IST 2024
+base.0=/Users/maheshwarsingh/React_Native_Projects/Assignment/JetSetGo/android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.1=/Users/maheshwarsingh/React_Native_Projects/Assignment/JetSetGo/android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/8/classes.dex
+path.0=0/classes.dex
+path.1=8/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
